@@ -4,11 +4,14 @@ This is a light program.An app to fix your photo.
 - language:Chinese
 - what's other?
   this app is a program,my vacation homework.
+  
   you should install PIL and pygame before you run the program.
 
 ## who can use?
 if you are a photographer,and you can't use photoshop,you can use our program.
+
 Why to use this app? Because it is easy to use!
+
 Our app is free!
 
 ## how to use?
